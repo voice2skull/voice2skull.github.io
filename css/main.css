@@ -1220,7 +1220,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ff7e2d;
+  background: #9de76e;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2458,20 +2458,6 @@ mark.search-keyword {
   border-bottom: 1px dashed #ff2a2a;
   color: #ff2a2a;
   font-weight: bold;
-}
-.search-stats {
-  align-items: center;
-  display: flex;
-  justify-content: space-between;
-}
-.search-stats img {
-  height: 1em;
-  margin: 0;
-}
-.pagination.algolia-pagination {
-  margin-top: auto;
-  padding: 40px 0;
-  visibility: visible;
 }
 .use-motion .animated {
   animation-fill-mode: none;
