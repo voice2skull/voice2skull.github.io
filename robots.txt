@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://voice2skull.github.io
